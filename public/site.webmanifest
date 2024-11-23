@@ -1,0 +1,98 @@
+{
+  "name": "Caresept",
+  "short_name": "Caresept",
+  "description": "Seamless AI Representatives for Superior Customer Engagement",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "theme_color": "#00A76F",
+  "background_color": "#ffffff",
+  "scope": "/",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/2880x1800.png",
+      "sizes": "2880x1800",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/2880x1800(1).png",
+      "sizes": "2880x1800",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/662x1435.png",
+      "sizes": "662x1435",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/2880x1.png",
+      "sizes": "2880x1625",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/2880x3.png",
+      "sizes": "2880x1625",
+      "type": "image/png",
+      "form_factor": "wide" 
+    },
+    {
+      "src": "/2880x4.png",
+      "sizes": "2880x1625",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ],
+  "protocol_handlers": [
+    {
+      "protocol": "web+caresept",
+      "url": "/dashboard?%s"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Dashboard",
+      "url": "/dashboard",
+      "icons": [
+        {
+          "src": "/favicon-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}
