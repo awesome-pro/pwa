@@ -29,7 +29,6 @@ self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open('CareseptAppCacheV1').then(async (cache) => {
       return await cache.addAll([
-        '/144x144.png',
         '/192x192.png',
         '/192x192(1).png',
         '/512x512.png',
