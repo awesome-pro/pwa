@@ -4,12 +4,12 @@ importScripts(
 );
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyA2d3-yRYKwNNFqUouheObgknD5p720eEw',
-  authDomain: 'caresept-b48e1.firebaseapp.com',
-  projectId: 'caresept-b48e1',
-  storageBucket: 'caresept-b48e1.firebasestorage.app',
-  messagingSenderId: '262766148459',
-  appId: '1:262766148459:web:86ba86c65bb940fa176a2e',
+  apiKey: 'A****p720eEw',
+  authDomain: 'c****.firebaseapp.com',
+  projectId: 'c****',
+  storageBucket: 'c****.firebasestorage.app',
+  messagingSenderId: '26****59',
+  appId: '1:******2e',
 };
 
 firebase.initializeApp(firebaseConfig);
